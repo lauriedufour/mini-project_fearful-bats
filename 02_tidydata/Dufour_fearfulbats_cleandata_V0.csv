@@ -1,0 +1,16 @@
+batID,treatment,weight_eaten,time_spent_feeding,feeding_latency
+1,green,1.5,3,30S
+1,light,2,5,1M 0S
+1,dark,1,2,10M 0S
+2,green,0.5,1,5M 0S
+2,light,1.5,2,2M 0S
+2,dark,2,2,45S
+3,green,1.7,3,6M 0S
+3,light,0.6,1,45S
+3,dark,1.5,2,5M 0S
+4,green,0.8,1,15M 0S
+4,light,2.2,4,10M 0S
+4,dark,1.7,2,14M 0S
+5,green,1.2,2,3M 0S
+5,light,0.8,1,3M 30S
+5,dark,1.8,3,12M 20S
